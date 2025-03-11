@@ -10,11 +10,17 @@ This **Power BI dashboard** provides insights into **Email Marketing Trends**, h
 
 ## 📌 Dashboard Preview:
 page 1:
-![Email Marketing Dashboard]https://github.com/saikumar0484/Email-Marketing-Trends-PowerBI/blob/main/Dashboard%20images/Screenshot%202025-03-11%20181844.png
+![Email Marketing Dashboard](https://github.com/saikumar0484/Email-Marketing-Trends-PowerBI/blob/main/Dashboard%20images/Screenshot%202025-03-11%20181844.png)
+
+
 page 2:
-![Email Marketing Dashboard]https://github.com/saikumar0484/Email-Marketing-Trends-PowerBI/blob/main/Dashboard%20images/Screenshot%202025-03-11%20181906.png
+![Email Marketing Dashboard](https://github.com/saikumar0484/Email-Marketing-Trends-PowerBI/blob/main/Dashboard%20images/Screenshot%202025-03-11%20181906.png)
+
+
 page 3:
-![Email Marketing Dashboard]https://github.com/saikumar0484/Email-Marketing-Trends-PowerBI/blob/main/Dashboard%20images/Screenshot%202025-03-11%20181933.png
+![Email Marketing Dashboard](https://github.com/saikumar0484/Email-Marketing-Trends-PowerBI/blob/main/Dashboard%20images/Screenshot%202025-03-11%20181933.png)
+
+
 ## 🚀 How to Use:
 1. **Download** the `Trends_in_Email_Marketing.pbix` file.
 2. **Open** it in **Power BI Desktop**.
